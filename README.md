@@ -3,6 +3,8 @@ Implementation of paper "Colorization using optimization"
 Official site: https://www.cs.huji.ac.il/~yweiss/Colorization/
 
 
+
+
 ## Dependences
   The code has been tested in python 3.6, ubuntu 18.04.
   1. numpy
@@ -12,11 +14,16 @@ Official site: https://www.cs.huji.ac.il/~yweiss/Colorization/
   5. os
 
 
+
+
 ## How to use
   Modify variables that mentioned top of each code.
   
   MkExample.py: Making own data for testing easily.
+  
   colorizatin.py: Implementation of paper.
+  
+  
   
   
 ## Reference work
