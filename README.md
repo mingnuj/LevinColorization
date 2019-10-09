@@ -11,12 +11,15 @@ Official site: https://www.cs.huji.ac.il/~yweiss/Colorization/
   4. colorsys
   5. os
 
+
 ## How to use
   Modify variables that mentioned top of each code.
   
   MkExample.py: Making own data for testing easily.
   colorizatin.py: Implementation of paper.
   
+  
 ## Reference work
   Paper: https://www.cs.huji.ac.il/~yweiss/Colorization/
+  
   Code: https://github.com/geap/Colorization
