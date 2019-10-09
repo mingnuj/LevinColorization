@@ -1,5 +1,7 @@
 # LevinColorization
+
 Implementation of paper "Colorization using optimization"
+
 Official site: https://www.cs.huji.ac.il/~yweiss/Colorization/
 
 
